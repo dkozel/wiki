@@ -1,0 +1,1 @@
+* secure my wiki
