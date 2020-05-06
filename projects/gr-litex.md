@@ -34,6 +34,8 @@ JTAG header cable: WM26622-ND
 > _florent_: good for the CLE-215, it should be possible to use the USB3 PIPE with it yes, but there are still some work to do on the USB3 Core to have something really usable. Kate Temkin will probably work on a new USB3 core to replace the Daisho one, so there should be interesting things coming in the next months.  
 > dkozel: Cool. I'll backburner a variant of the PCIeish for m.2. 
 
+* Improve nextpnr's Artix 7 support to allow fully opensource PCIe IP
+
 ## Software
 
 LiteX
