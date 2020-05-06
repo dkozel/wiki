@@ -2,6 +2,9 @@ An FPGA demonstration using GNU Radio using LiteX on an Artix 7 with PCIe interf
 
 ## Topics to explore
 
+* CMake Packaging of LitePCIe kernel module and userspace
+    * [[CMake Resources|/projects/gr-litex/cmake]]
+
 * prjxray for Artix 7
     * Chat Log: https://freenode.irclog.whitequark.org/litex/2020-05-04#26958149
     * Get simple test image working with Aller or CEL-215+
