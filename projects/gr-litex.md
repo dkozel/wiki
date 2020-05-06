@@ -15,6 +15,14 @@ An FPGA demonstration using GNU Radio using LiteX on an Artix 7 with PCIe interf
 * RAM
 * Flash
 
+Heatsink seems to be insufficient and poorly attached. Two possible replacements:
+
+SKU: FI23+Bu+T725  
+https://www.radianheatsinks.com/product/fi23/
+
+hUMANDATA MBA23001-X01  
+https://www2.hdl.co.jp/en/plink/mba23001-x01.html
+
 ### SQRL Acorn CLE-215+
 
 JTAG header cable: WM26622-ND 
