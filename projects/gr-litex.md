@@ -9,11 +9,15 @@ An FPGA demonstration using GNU Radio using LiteX on an Artix 7 with PCIe interf
 
 ## Hardware
 
-Numato Aller or SQRL Acorn CEL-215+
+### Numato Aller
 * Artix 7 200T
 * PCIe Gen 2 x4 - m.2 m-key
 * RAM
 * Flash
+
+### SQRL Acorn CLE-215+
+
+JTAG header cable: WM26622-ND 
 
 ### Ideas
 
